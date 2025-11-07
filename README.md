@@ -1,19 +1,5 @@
-This is a README simple static website using purely HTML showcasing basic web structures, and navigation between pages, which has foldering structure as follows
+This is a README simple static website using purely HTML showcasing basic web structures, and navigation between pages, which have the following features of each pages:
 
-My-Portfolio/
-│
-├── index.html                # Main homepage — introduction and background
-├── pages/
-│   ├── featured-prjoects.html # Project showcase page
-│   └── forms.html             # Contact form page
-│
-└── assets/
-    └── images/
-        ├── Kamil.jpg          # Profile picture
-        └── Header_Footer.jpg  # Header and footer background image
-
-
-and have the following features of each pages:
 #index.html — Home
     - Contains About Me and Background sections.
     - Includes a header, navigation bar, and footer with social links.
