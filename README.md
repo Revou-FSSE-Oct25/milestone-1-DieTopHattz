@@ -6,13 +6,13 @@ mileston-1-DieTopHattz
 
 ├── index.html                 
 ├── pages
-│   ├── featured-projects.html 
-│   └── forms.html            
+│ ├── featured-projects.html 
+│ └── forms.html            
 ├── styles
-│   └── styles.css            
+│ └── styles.css            
 ├── assets
-│   └── images/
-│       └── Kamil.jpg         
+│ └── images/
+│     └── Kamil.jpg         
 └── README.md
 
 
