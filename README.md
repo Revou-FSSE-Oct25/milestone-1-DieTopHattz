@@ -5,12 +5,12 @@ mileston-1-DieTopHattz
 
 
 ├── index.html                 
-├── pages/
+├── pages
 │   ├── featured-projects.html 
 │   └── forms.html            
-├── styles/
+├── styles
 │   └── styles.css            
-├── assets/
+├── assets
 │   └── images/
 │       └── Kamil.jpg         
 └── README.md
