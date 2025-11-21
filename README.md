@@ -1,13 +1,27 @@
-## Folder Structuring
-├── index.html 
-├── pages/
+Folder Structuring
+
+mileston-1-DieTopHattz
+
+
+
+├── index.html                 
+
+├── pages
+
 │ ├── featured-projects.html 
-│ └── forms.html 
-├── styles/
-│ └── styles.css 
-├── assets/
+
+│ └── forms.html            
+
+├── styles
+
+│ └── styles.css            
+
+├── assets
+
 │ └── images/
-│ └── Kamil.jpg 
+
+│     └── Kamil.jpg         
+
 └── README.md
 
 
