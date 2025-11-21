@@ -1,16 +1,16 @@
 Folder Structuring
 
- milestone-1-DieTopHattz 
-  ├── index.html 
-  ├── pages/
-  │ ├── featured-projects.html 
-  │ └── forms.html 
-  ├── styles/
-  │ └── styles.css 
-  ├── assets/
-  │ └── images/
-  │ └── Kamil.jpg 
-  └── README.md
+mileston-1-DieTopHattz/
+├── index.html                 
+├── pages/
+│   ├── featured-projects.html 
+│   └── forms.html            
+├── styles/
+│   └── styles.css            
+├── assets/
+│   └── images/
+│       └── Kamil.jpg         
+└── README.md
 
 
 
