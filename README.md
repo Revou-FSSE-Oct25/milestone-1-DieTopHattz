@@ -1,6 +1,9 @@
 Folder Structuring
 
-mileston-1-DieTopHattz/
+mileston-1-DieTopHattz
+
+
+
 ├── index.html                 
 ├── pages/
 │   ├── featured-projects.html 
