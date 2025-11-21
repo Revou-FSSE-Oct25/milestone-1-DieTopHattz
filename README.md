@@ -1,6 +1,6 @@
 Folder Structuring
 
-mileston-1-DieTopHattz
+milestone-1-DieTopHattz
 
 
 
